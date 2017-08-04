@@ -1,1 +1,3 @@
-anything
+Web app was hosting on AWS EC2 instance. 
+We can visit web app through IP address which is 35.167.59.55
+Type http://35.167.59.55/prediction as url in web brower we can use our web service
